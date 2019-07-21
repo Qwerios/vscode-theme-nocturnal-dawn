@@ -1,0 +1,21 @@
+{
+    "name": "nocturnal-dawn",
+    "displayName": "Nocturnal Dawn",
+    "description": "A light theme with dark influences",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nocturnal Dawn",
+                "uiTheme": "vs",
+                "path": "./themes/Nocturnal Dawn-color-theme.json"
+            }
+        ]
+    }
+}
