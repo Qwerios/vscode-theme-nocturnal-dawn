@@ -9,3 +9,8 @@ I originally started this theme by merging the UI style from the [Slack Theme Oc
 ![markdown screenshot](screenshots/markdown.png)
 
 ![typescript screenshot](screenshots/typescript.png)
+
+Screenshots were made with
+
+* [Material icon theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [Brack pair colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
