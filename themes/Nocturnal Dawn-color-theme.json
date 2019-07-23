@@ -21,7 +21,7 @@
     "editor.background": "#ececec",
     "editor.findMatchBackground": "#AED4FB",
     "editor.foreground": "#000",
-    "editor.lineHighlightBackground": "#EEEEEE",
+    "editor.lineHighlightBackground": "#d1deeb",
     "editor.selectionBackground": "#AED4FB",
     "editor.wordHighlightBackground": "#AED4FB",
     "editor.wordHighlightStrongBackground": "#EEEEEE",
