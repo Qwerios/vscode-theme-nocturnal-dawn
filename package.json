@@ -3,6 +3,11 @@
   "displayName": "Nocturnal Dawn",
   "description": "A light theme with dark influences",
   "version": "0.0.1",
+  "publisher": "qwerios",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Qwerios/vscode-theme-nocturnal-dawn"
+  },
   "engines": {
     "vscode": "^1.36.0"
   },
