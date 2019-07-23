@@ -1,16 +1,9 @@
-# README
+# VSCode theme: Nocturnal Dawn
 
-## This is the README for your extension "nocturnal-dawn"
+This theme is a light theme but with some dark influences.
+It uses a light and a not fully bright white editing area to focus on.
+The sidebar and other UI elements kept dark as a contrast.
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+I originally started this theme by merging the UI style from the [Slack Theme Ochin](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme) and the syntax from [Light+ dimmed](https://marketplace.visualstudio.com/items?itemName=iredchuk.light-plus-dimmed).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+TODO: Add screenshots
