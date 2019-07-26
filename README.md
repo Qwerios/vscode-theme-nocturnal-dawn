@@ -16,5 +16,5 @@ Screenshots were made with
 
 * [Bracket pair colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 * [Color picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
-* [Markdown Previe Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+* [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 * [Material icon theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
