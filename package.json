@@ -1,26 +1,31 @@
 {
-  "name": "nocturnal-dawn",
-  "displayName": "Nocturnal Dawn",
-  "description": "A light theme with dark influences",
-  "version": "1.0.0",
-  "publisher": "qwerios",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Qwerios/vscode-theme-nocturnal-dawn"
-  },
-  "engines": {
-    "vscode": "^1.36.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Nocturnal Dawn",
-        "uiTheme": "vs",
-        "path": "./themes/Nocturnal Dawn-color-theme.json"
-      }
-    ]
-  }
+	"name": "nocturnal-dawn",
+	"displayName": "Nocturnal Dawn",
+	"description": "A light theme with dark influences",
+	"version": "1.0.0",
+	"publisher": "qwerios",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Qwerios/vscode-theme-nocturnal-dawn"
+	},
+	"engines": {
+		"vscode": "^1.36.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Nocturnal Dawn",
+				"uiTheme": "vs",
+				"path": "./themes/Nocturnal Dawn-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "62f9f456-9da1-45d2-bc5f-abd973daae63",
+		"publisherDisplayName": "qwerios",
+		"publisherId": "b953fa0d-2c09-4065-ba10-747873ac8fba"
+	}
 }
