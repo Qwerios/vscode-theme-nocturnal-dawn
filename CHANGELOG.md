@@ -6,6 +6,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.1] - 2019-08-12
+
+### Added
+
+Sidebar border
+
+### Changed
+
+Improved tab border
+
 ## [1.0.0] - 2019-07-26
 
 ### Added
