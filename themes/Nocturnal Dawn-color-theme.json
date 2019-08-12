@@ -1,6 +1,6 @@
 {
   "name": "Nocturnal Dawn",
-  "type": "light",
+  "type": "dark",
   "colors": {
     "activityBar.background": "#161F26",
     "activityBar.dropBackground": "#FFF",
@@ -99,13 +99,14 @@
     "sideBarSectionHeader.background": "#161F26",
     "sideBarSectionHeader.foreground": "#FFF",
     "sideBarTitle.foreground": "#FFF",
+    "sideBar.border": "#161F267e",
     "statusBar.background": "#5899C5",
     "statusBar.debuggingBackground": "#8AE773",
     "statusBar.foreground": "#FFF",
     "statusBar.noFolderBackground": "#161F26",
     "tab.activeBackground": "#ececec",
     "tab.activeForeground": "#000",
-    "tab.border": "#2D3E4C",
+    "tab.border": "#161F267e",
     "tab.inactiveBackground": "#161F26",
     "tab.inactiveForeground": "#ececec",
     "terminal.ansiBlack": "#000000",
