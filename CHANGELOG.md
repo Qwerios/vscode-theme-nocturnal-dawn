@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.2] - 2019-08-30
+
+### Added
+
+Grey sidebar variant for icon visibility
+
 ## [1.0.1] - 2019-08-12
 
 ### Added
