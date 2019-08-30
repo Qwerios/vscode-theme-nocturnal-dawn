@@ -20,6 +20,11 @@
 				"label": "Nocturnal Dawn",
 				"uiTheme": "vs",
 				"path": "./themes/Nocturnal Dawn-color-theme.json"
+			},
+			{
+				"label": "Nocturnal Dawn (Greyside)",
+				"uiTheme": "vs",
+				"path": "./themes/Nocturnal Dawn Grayside-color-theme.json"
 			}
 		]
 	},
