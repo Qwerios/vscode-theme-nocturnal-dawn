@@ -6,6 +6,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.4] - 2019-09-02
+
+### Changed
+
+Fix icon contrast by setting base type to dark
+Improve selection and highlight color for Grayside
+
 ## [1.0.3] - 2019-08-30
 
 ### Changed
