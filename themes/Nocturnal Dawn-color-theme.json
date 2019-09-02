@@ -1,6 +1,6 @@
 {
   "name": "Nocturnal Dawn",
-  "type": "light",
+  "type": "dark",
   "colors": {
     "activityBar.background": "#161F26",
     "activityBar.dropBackground": "#FFF",

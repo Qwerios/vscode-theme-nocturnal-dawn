@@ -14,11 +14,16 @@
 	"categories": [
 		"Themes"
 	],
+	"keywords": [
+		"theme",
+		"light",
+		"dark"
+	],
 	"contributes": {
 		"themes": [
 			{
 				"label": "Nocturnal Dawn",
-				"uiTheme": "vs",
+				"uiTheme": "vs-dark",
 				"path": "./themes/Nocturnal Dawn-color-theme.json"
 			},
 			{
