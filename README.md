@@ -4,8 +4,9 @@ This theme is a light theme but with some dark influences.
 It uses a not fully bright white editing area to focus on.
 The sidebar and other UI elements are kept dark for contrast.
 
-Since version 1.0.2 there is also a gray colored sidebar for icon visibility.
-It looks like we can't customise the icon color for now in VSCode themes but will try to fix the original blue version in the future.
+Since version 1.0.2 there is also a gray colored sidebar variant which is a work in progress.
+
+The icon contrast issue was resolved in version 1.0.4
 
 I originally started this theme by merging the UI style from the [Slack Theme Ochin](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme) and the syntax from [Light+ dimmed](https://marketplace.visualstudio.com/items?itemName=iredchuk.light-plus-dimmed).
 
