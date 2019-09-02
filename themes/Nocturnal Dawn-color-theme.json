@@ -27,7 +27,7 @@
     "editor.wordHighlightStrongBackground": "#EEEEEE",
     "editorGroup.emptyBackground": "#2D3E4C",
     "editorGroup.focusedEmptyBorder": "#2D3E4C",
-    "editorGroupHeader.tabsBackground": "#b9b9b9",
+    "editorGroupHeader.tabsBackground": "#2D3E4C",
     "editorHint.border": "#F9F9F9",
     "editorHint.foreground": "#F9F9F9",
     "editorIndentGuide.activeBackground": "#dbdbdb",
