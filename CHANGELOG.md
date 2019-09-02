@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+### Changed
+
+## [1.0.5] - 2019-09-02
+
+Empty tab background to match sidebar
+
 ## [1.0.4] - 2019-09-02
 
 ### Changed
